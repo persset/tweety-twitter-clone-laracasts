@@ -49940,8 +49940,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\Master Of Folders\Projects\Laravel\tweety\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\Master Of Folders\Projects\Laravel\tweety\resources\css\main.css */"./resources/css/main.css");
+__webpack_require__(/*! C:\Users\victo\Desktop\Folder\Projects\Laravel\tweety-twitter-clone-laracasts\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\victo\Desktop\Folder\Projects\Laravel\tweety-twitter-clone-laracasts\resources\css\main.css */"./resources/css/main.css");
 
 
 /***/ })
