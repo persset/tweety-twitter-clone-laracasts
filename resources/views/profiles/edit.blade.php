@@ -58,8 +58,6 @@
                     type="file"
                     name="avatar"
                     id="avatar"
-                    value="{{ $user->avatar }}"
-                    required
                 >
 
                 <img src="{{ $user->avatar }}" alt="your avatar" width="40">
@@ -102,7 +100,6 @@
                 type="password"
                 name="password"
                 id="password"
-                required
             >
 
             @error('password')
@@ -122,7 +119,6 @@
                 type="password"
                 name="password_confirmation"
                 id="password_confirmation"
-                required
             >
 
             @error('password_confirmation')
